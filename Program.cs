@@ -1,4 +1,6 @@
 ﻿using System;
+using BreadFactoryMethod.Interfaces;
+using BreadFactoryMethod.Models;
 
 namespace BreadFactoryMethod
 {
@@ -6,7 +8,11 @@ namespace BreadFactoryMethod
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IBreadFactory factory = new LoafFactory();
+            IBread bread = factory.CreateBread();
+            bread.Slice();
+
+            Console.ReadLine();
         }
     }
 }

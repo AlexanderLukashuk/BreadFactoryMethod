@@ -1,0 +1,12 @@
+/Users/sanya/paternsCsharp_study/homework/factoryMethod/BreadFactoryMethod/bin/Debug/netcoreapp3.1/BreadFactoryMethod.deps.json
+/Users/sanya/paternsCsharp_study/homework/factoryMethod/BreadFactoryMethod/bin/Debug/netcoreapp3.1/BreadFactoryMethod.runtimeconfig.json
+/Users/sanya/paternsCsharp_study/homework/factoryMethod/BreadFactoryMethod/bin/Debug/netcoreapp3.1/BreadFactoryMethod.runtimeconfig.dev.json
+/Users/sanya/paternsCsharp_study/homework/factoryMethod/BreadFactoryMethod/bin/Debug/netcoreapp3.1/BreadFactoryMethod.dll
+/Users/sanya/paternsCsharp_study/homework/factoryMethod/BreadFactoryMethod/bin/Debug/netcoreapp3.1/BreadFactoryMethod.pdb
+/Users/sanya/paternsCsharp_study/homework/factoryMethod/BreadFactoryMethod/obj/Debug/netcoreapp3.1/BreadFactoryMethod.csprojAssemblyReference.cache
+/Users/sanya/paternsCsharp_study/homework/factoryMethod/BreadFactoryMethod/obj/Debug/netcoreapp3.1/BreadFactoryMethod.AssemblyInfoInputs.cache
+/Users/sanya/paternsCsharp_study/homework/factoryMethod/BreadFactoryMethod/obj/Debug/netcoreapp3.1/BreadFactoryMethod.AssemblyInfo.cs
+/Users/sanya/paternsCsharp_study/homework/factoryMethod/BreadFactoryMethod/obj/Debug/netcoreapp3.1/BreadFactoryMethod.csproj.CoreCompileInputs.cache
+/Users/sanya/paternsCsharp_study/homework/factoryMethod/BreadFactoryMethod/obj/Debug/netcoreapp3.1/BreadFactoryMethod.dll
+/Users/sanya/paternsCsharp_study/homework/factoryMethod/BreadFactoryMethod/obj/Debug/netcoreapp3.1/BreadFactoryMethod.pdb
+/Users/sanya/paternsCsharp_study/homework/factoryMethod/BreadFactoryMethod/obj/Debug/netcoreapp3.1/BreadFactoryMethod.genruntimeconfig.cache

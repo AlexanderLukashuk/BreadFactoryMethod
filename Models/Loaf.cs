@@ -7,7 +7,7 @@ namespace BreadFactoryMethod.Models
     {
         public void Slice()
         {
-            Console.WriteLine("Нарезана батон");
+            Console.WriteLine("Нарезан батон");
         }
     }
 }
